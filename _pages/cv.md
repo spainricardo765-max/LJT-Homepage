@@ -28,6 +28,10 @@ Skills
 * Hallucination in Vision-Language Models (VLM)
 * LLM Truthfulness and Interpretability
 
+Honors and Awards
+======
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University (SJTU)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
